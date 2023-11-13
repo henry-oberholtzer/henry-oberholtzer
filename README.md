@@ -1,3 +1,5 @@
 #### Hi!
 
-I'm a musician, programmer and designer in Portland, OR.
+I'm a junior web developer and musician based in Portland, OR.
+
+I have experience in programming in JavaScript, HTML, CSS & SCSS. I'm passionate about open source code, techno and graphic design.
