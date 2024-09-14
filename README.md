@@ -1,4 +1,4 @@
-Programmer and musician based in Portland, OR.
+Programmer and musician based in Portland, OR. Masters in CS @ Portland State University
 
 Experience in programming in JavaScript, TypeScript, C#, Python, React, HTML, CSS & SCSS.
 
